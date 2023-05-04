@@ -1,16 +1,31 @@
-### Hi there 👋
+🔭 I’m currently working on DataScience,
 
-<!--
-**elfakbaba/elfakbaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Python (NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib)
 
-Here are some ideas to get you started:
+👀 I’m interested in Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me elifakbaba11@gmail.com
+
+🏫 I currently live in Eindhoven
+
+👯 Fun fact I’m interested in cinema, watercolor painting and meditation
+
+
+🌐 Socials:
+LinkedIn Medium
+
+💻 Tech Stack:
+Python AWS Canva Adobe Illustrator NumPy Pandas scikit-learn SciPy Notion Prezi
+
+📊 GitHub Stats:
+
+
+
+
+
+
+✍️ Random Dev Quote
+
+
+😂 Random Dev Meme
+

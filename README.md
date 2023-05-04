@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on DataScience,<br><br>⚡ Python (NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib)<br><br>👀 I’m interested in Machine Learning<br><br>📫 How to reach me elifakbaba11@gmail.com<br><br>🏫 I currently live in Eindhoven <br><br>👯 Fun fact I'm interested in cinema, watercolor painting and meditation<br><br>
 
 
